@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700');
+
 body{
  background: #e5e5e5;
  font-family: 'Oswald', sans-serif;
@@ -32,7 +34,6 @@ body{
 .content{
   padding-bottom: 20px;
 }
- @import url('https://fonts.googleapis.com/css?family=Oswald:400,500,600,700');
 
 .content .card.first {
   margin-top: -80px;
